@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nolaxe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi
+
 
 
 <!---
